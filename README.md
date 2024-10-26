@@ -49,29 +49,28 @@
 <body style="font-family:Verdana;color:#aaaaaa;">
 
 <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
-  <h1>Hello World</h1>
+  <h1>My Pasifika Recipe</h1>
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-    <a href="#">Link 4</a>
+    <a href="#">Home</a>
+    <a href="#">Recipe</a>
+    <a href="#">Review</a>
   </div>
 
   <div class="main">
-    <h2>Lorum Ipsum</h2>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+    <h2>Grace Road Restaurant</h2>
+    <p>Is devoted towards preserving the variety of cultural dishes from across the pacific region. This allows to showcase dishes from a variety of cuisines.</p>
   </div>
 
   <div class="right">
-    <h2>About</h2>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+    <h2>Search</h2>
+    <p>Most recent items</p>
   </div>
 </div>
 
-<div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright w3schools.com</div>
+<div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright mypasifikarecipe.com</div>
 
 </body>
 </html>
